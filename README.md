@@ -2,4 +2,4 @@
 
 A memory game written in JavaScript
 
-![](readme/memory_video.png)
+![](readme/memory_video.gif)
